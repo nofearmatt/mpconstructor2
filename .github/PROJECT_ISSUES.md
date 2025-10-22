@@ -960,7 +960,7 @@ NEXT_PUBLIC_GA_ID=G-M1TZ288T41
 ## 📞 Контакты
 
 **Проект:** MPConstructor
-**GitHub:** (добавить позже)
+**GitHub:** https://github.com/nofearmatt/mpconstructor2
 **Документация:** См. файлы `*.md` в корне проекта
 
 ---
