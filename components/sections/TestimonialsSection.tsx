@@ -48,7 +48,7 @@ export default function TestimonialsSection() {
 
               {/* Цитата */}
               <blockquote className="text-gray-700 mb-6 italic">
-                "{testimonial.quote}"
+                &ldquo;{testimonial.quote}&rdquo;
               </blockquote>
 
               {/* Автор */}
